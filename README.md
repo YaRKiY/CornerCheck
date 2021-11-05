@@ -1,2 +1,2 @@
 # CornerCheck
- code for different purposes
+Code repository
